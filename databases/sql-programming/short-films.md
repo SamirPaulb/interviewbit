@@ -5,7 +5,7 @@ https://www.interviewbit.com/problems/short-films/
 Write a SQL Query to find those lowest duration movies along with the year, director's name(first and last name combined), actor's name(first and last name combined) and his/her role in that production.
 
 ### Output Schema
-
+ 
 ```
 movie_title,movie_year,director_name,actor_name,role
 ```
